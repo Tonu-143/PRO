@@ -217,7 +217,7 @@ def Hasan():
 		with tred(max_workers=30) as crack_submit:
 			clear()
 			total_ids = str(len(fo))
-			print(f" \033[1;91m[\033[1;97m•\033[1;91m]\033[1;32m Total account : \033[1;32m'+total_ids+f' \n \033[1;91m[\033[1;97m•\033[1;91m]\033[1;32mMethod > \033[1;37mM{mthd}')
+			print(f' \033[1;91m[\033[1;97m•\033[1;91m]\033[1;32m Total account : \033[1;32m'+total_ids+f' \n \033[1;91m[\033[1;97m•\033[1;91m]\033[1;32mMethod > \033[1;37mM{mthd}')
 			print(f" \033[1;91m[\033[1;97m•\033[1;91m]\033[1;32m Use flight mode for speed up\033[1;37m")
 			print(f" \033[1;91m[\033[1;97m•\033[1;91m]\033[1;32m Working Data+Wifi \033[1;94m")
 			linex()
